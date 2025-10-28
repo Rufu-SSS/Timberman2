@@ -1,0 +1,19 @@
+﻿  Timber.cpp
+E:\AluCiclesGS2\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Timber.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\stdexcept(100,30):
+      see declaration of 'std::runtime_error'
+      E:\AluCiclesGS2\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+E:\AluCiclesGS2\Pol a prog\Timber que funciona\TimberGame\Timber.cpp(240,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\AluCiclesGS2\Pol a prog\Timber que funciona\TimberGame\Timber.cpp(256,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\AluCiclesGS2\Pol a prog\Timber que funciona\TimberGame\Timber.cpp(357,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\AluCiclesGS2\Pol a prog\Timber que funciona\TimberGame\Timber.cpp(358,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\AluCiclesGS2\Pol a prog\Timber que funciona\TimberGame\Timber.cpp(393,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 290 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Timber.vcxproj -> E:\AluCiclesGS2\Pol a prog\Timber que funciona\TimberGame\x64\Release\Timber.exe
